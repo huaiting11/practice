@@ -39,7 +39,7 @@ public class ClassLoaderTest {
         ClassLoader boot = extClassLoader.getParent();
         System.out.println(boot);
         // 用户自定类 来说，它的类加载器谁：默认使用系统类加载器 进行加载
-        ClassLoader classLoader = ClassLoaderTest.class.getClassLoader();
+        ClassLoader classLoader = src.chapters02.ClassLoaderTest.class.getClassLoader();
         System.out.println(classLoader);//Launcher$AppClassLoader@18b4aac2
       // String类 使用引导类加载器进行加载  -》 java 的核心类库 都是 引导类加载器 加载的
         ClassLoader classLoader1  = String.class.getClassLoader();

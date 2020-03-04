@@ -2,7 +2,7 @@ package chapters03;
 
 public class Test {
     public static void main(String[] args) {
-        Test test = new Test();
+        src.chapters03.Test test = new src.chapters03.Test();
     }
     {
         System.out.println("非静态代码块");

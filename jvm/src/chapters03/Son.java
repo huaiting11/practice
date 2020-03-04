@@ -29,7 +29,8 @@ class Father{
         System.out.println("father 普通方法");
     }
 }
-public class Son extends  Father{
+
+public class Son extends src.chapters03.Father {
     public Son(){
         System.out.println("Son 的构造器");
     }
