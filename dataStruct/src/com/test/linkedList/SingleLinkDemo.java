@@ -1,7 +1,22 @@
 package com.test.linkedList;
 
+import com.sun.xml.internal.ws.api.message.HeaderList;
+
+import java.util.LinkedList;
+
 public class SingleLinkDemo {
     public static void main(String[] args) {
+        HeroNode heroNode = new HeroNode(1,"宋江","宋江");
+        HeroNode heroNode2 = new HeroNode(2,"卢俊义","卢俊义");
+        SingleLinkedList singleLinkedList = new SingleLinkedList();
+        singleLinkedList.add(heroNode);
+        singleLinkedList.add(heroNode2);
+        singleLinkedList.list();
+        LinkedList<Integer> linkedList = new LinkedList<>();
+        linkedList.add(2);
+        linkedList.add(3);
+        String sql ="INSERT INTO `user` VALUES(NULL,?,?,?,?,?,?,NULL,NULL)";
+
 
     }
 }
@@ -14,8 +29,34 @@ class SingleLinkedList{
      * 1.找到当前链表的最后及诶点
      * 2.将最后这个节点的next，指向新的节点
      */
-    public void add(){
+    public void add(HeroNode node){
+        HeroNode temp = head;
+        while(true){
+            if(temp.next == null){
+                break;
+            }
+            temp = temp.next;
 
+        }
+        // 当退出while 循环时，temp 就指向了链表的最后
+        temp.next = node;
+    }
+    public void list(){
+        if(head.next == null){
+            System.out.println("链表为空");
+            return;
+        }
+        HeroNode temp = head.next;
+        while (true){
+            // 判断是否到链表最后
+            if(temp == null){
+                break;
+            }
+            // 输出节点信息
+            System.out.println(temp);
+            // 将temp 后移，
+            temp= temp.next;
+        }
     }
 
 }
@@ -39,7 +80,6 @@ class HeroNode{
                 "no=" + no +
                 ", name='" + name + '\'' +
                 ", nickName='" + nickName + '\'' +
-                ", next=" + next +
                 '}';
     }
 }

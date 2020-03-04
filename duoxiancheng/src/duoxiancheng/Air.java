@@ -1,9 +1,9 @@
 package duoxiancheng;
 
-import java.text.DecimalFormat;
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
+
 //资源类
 public class Air {
     public int temperature;
