@@ -1,4 +1,7 @@
 package com.test.CreationalPatterns.BuilderPattern;
 
-public class Item {
+public interface Item {
+    public String name();
+    public Packing packing();
+    public float price();
 }

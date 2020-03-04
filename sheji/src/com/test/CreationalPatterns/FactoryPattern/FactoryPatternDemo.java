@@ -1,4 +1,6 @@
-package com.test.CreationalPatterns.FactoryPatter;
+package com.test.CreationalPatterns.FactoryPattern;
+
+import com.test.CreationalPatterns.Bean.Shape;
 
 public class FactoryPatternDemo {
     public static void main(String[] args) {

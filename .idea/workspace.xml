@@ -1,7 +1,75 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed806865-9a36-4d57-872a-ff2fa4b3e56e" name="Default Changelist" comment="" />
+    <list default="true" id="ed806865-9a36-4d57-872a-ff2fa4b3e56e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/sheji.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/AbstractFactoryPattern/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/AbstractFactoryPattern/AbstractFactoryPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/AbstractFactoryPattern/ColorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/AbstractFactoryPattern/FactoryProducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/AbstractFactoryPattern/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/Bean/Blue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/Bean/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/Bean/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/Bean/Green.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/Bean/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/Bean/Red.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/Bean/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/Bean/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/BuilderPattern/Bottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/BuilderPattern/BuilderPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/BuilderPattern/Burger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/BuilderPattern/ChickenBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/BuilderPattern/Coke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/BuilderPattern/ColdDrink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/BuilderPattern/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/BuilderPattern/Meal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/BuilderPattern/MealBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/BuilderPattern/Packing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/BuilderPattern/Pepsi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/BuilderPattern/VegBurger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/BuilderPattern/Wrapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/FactoryPattern/FactoryPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/FactoryPattern/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/PrototypePattern/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/PrototypePattern/PrototypePatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/PrototypePattern/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/PrototypePattern/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/PrototypePattern/ShapeCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/PrototypePattern/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/SingletonPattern/SingleObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/SingletonPattern/SingletonPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/StructuralPatterns/AdapterPattern/AdapterPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/StructuralPatterns/AdapterPattern/AdvancedMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/StructuralPatterns/AdapterPattern/AudioPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/StructuralPatterns/AdapterPattern/MediaAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/StructuralPatterns/AdapterPattern/MediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/StructuralPatterns/AdapterPattern/Mp4Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/StructuralPatterns/AdapterPattern/VlcPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/StructuralPatterns/Bridge/BridgePatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/StructuralPatterns/Bridge/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/StructuralPatterns/Bridge/DrawAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/StructuralPatterns/Bridge/GreenCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/StructuralPatterns/Bridge/RedCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/StructuralPatterns/Bridge/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/StructuralPatterns/FilterPattern/AndCriteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/StructuralPatterns/FilterPattern/Criteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/StructuralPatterns/FilterPattern/CriteriaFemale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/StructuralPatterns/FilterPattern/CriteriaMale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/StructuralPatterns/FilterPattern/CriteriaPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/StructuralPatterns/FilterPattern/CriteriaSingle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/StructuralPatterns/FilterPattern/OrCriteria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/StructuralPatterns/FilterPattern/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/proxy/dongtai/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/proxy/dongtai/LogHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/proxy/jingtai/Client1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/proxy/jingtai/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/proxy/jingtai/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/proxy/jingtai/UserServiceProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,11 +78,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YKjmzzVfnSU2iMEe4CmYKIgXtr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,10 +97,11 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="D:/ehr" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sheji/src/com/test/CreationalPatterns/FactoryPatter" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,19 +118,20 @@
       <recent name="com.test.coutdowmlauch" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\practice\sheji\src\com\test\CreationalPatterns\FactoryPatter" />
       <recent name="F:\practice\jvm\src" />
       <recent name="F:\practice\duoxiancheng\src" />
       <recent name="F:\practice\likou\src" />
       <recent name="F:\practice\jvm\src\com\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Q647_palindromic_substrings">
-    <configuration name="FanSheTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.FanSheTest" />
-      <module name="jvm" />
+  <component name="RunManager" selected="Application.BuilderPatternDemo">
+    <configuration name="BuilderPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.CreationalPatterns.BuilderPattern.BuilderPatternDemo" />
+      <module name="sheji" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.test.*" />
+          <option name="PATTERN" value="com.test.CreationalPatterns.BuilderPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,8 +139,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pool02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.Pool02" />
+    <configuration name="FanSheTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.test.FanSheTest" />
       <module name="jvm" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BuilderPatternDemo" />
         <item itemvalue="Application.Q647_palindromic_substrings" />
         <item itemvalue="Application.Q1091" />
         <item itemvalue="Application.FanSheTest" />
         <item itemvalue="Application.SynchronousQueueDemo" />
-        <item itemvalue="Application.Pool02" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +230,7 @@
       <workItem from="1583129226790" duration="6295000" />
       <workItem from="1583196241006" duration="56000" />
       <workItem from="1583204567091" duration="6252000" />
-      <workItem from="1583281981786" duration="2694000" />
+      <workItem from="1583281981786" duration="10655000" />
     </task>
     <servers />
   </component>
@@ -165,10 +242,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="552" y="182" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1582698399180" />
-    <state x="765" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1583282880888">
+    <state x="765" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1583286210332">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="765" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1583282880888" />
+    <state x="765" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1583286210332" />
     <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1583282910503">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -205,10 +282,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="1876" height="206" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1582798093918" />
-    <state x="331" y="134" key="new project wizard" timestamp="1583282716372">
+    <state x="331" y="134" key="new project wizard" timestamp="1583285643403">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="331" y="134" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1583282716372" />
+    <state x="331" y="134" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1583285643403" />
     <state x="616" y="237" key="run.anything.popup" timestamp="1583134113609">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>

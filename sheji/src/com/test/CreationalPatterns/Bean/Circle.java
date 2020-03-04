@@ -1,4 +1,4 @@
-package com.test.CreationalPatterns.FactoryPattern;
+package com.test.CreationalPatterns.Bean;
 
 public class Circle implements Shape {
 

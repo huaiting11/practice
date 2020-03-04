@@ -1,4 +1,6 @@
 package com.test.proxy.jingtai;
 
-public class UserService {
+public interface UserService {
+    public void select();
+    public void update();
 }

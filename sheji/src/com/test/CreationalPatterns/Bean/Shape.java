@@ -1,4 +1,4 @@
-package com.test.CreationalPatterns.FactoryPattern;
+package com.test.CreationalPatterns.Bean;
 
 public interface Shape {
     void draw();

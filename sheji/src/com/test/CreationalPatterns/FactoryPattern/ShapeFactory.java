@@ -1,4 +1,9 @@
-package com.test.CreationalPatterns.FactoryPatter;
+package com.test.CreationalPatterns.FactoryPattern;
+
+import com.test.CreationalPatterns.Bean.Circle;
+import com.test.CreationalPatterns.Bean.Rectangle;
+import com.test.CreationalPatterns.Bean.Shape;
+import com.test.CreationalPatterns.Bean.Square;
 
 public class ShapeFactory {
 
