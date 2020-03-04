@@ -1,0 +1,7 @@
+尚硅谷_01_JVM与Java体系结构
+
+找到你要反编译的class文件，cmd输入命令：
+
+javap -v HelloWorld.class
+
+在反编译后的代码中，可以看到整个class文件执行的过程。
