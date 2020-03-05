@@ -9,7 +9,7 @@ package chapters02;
 public class ClassLoader02 {
     public static void main(String[] args) {
         //1.
-        ClassLoader classLoader = src.chapters02.ClassLoader02.class.getClassLoader();
+        ClassLoader classLoader = chapters02.ClassLoader02.class.getClassLoader();
         //2.
         ClassLoader classLoader1 = Thread.currentThread().getContextClassLoader();
         System.out.println(classLoader1);
