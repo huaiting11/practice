@@ -58,7 +58,6 @@ public class Q15 {
                     r--;
                 }
             }
-            
         }
         return s;
     }
