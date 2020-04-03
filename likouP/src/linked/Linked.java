@@ -140,10 +140,33 @@ public class Linked <T> {
      * 两两交换链表中的节点
      *  1->2->3->4
      *  2->1->4->3
+     *  递归的写法
      */
-    public void swapPairs(Node head) {
+    public Node swapPairs(Node head) {
+       if(head == null || head.next == null){
+            return head;
+       }
+       Node first = head;
+       Node second = head.next;
+       Node last  = swapPairs(second.next);
+       first.next = last;
+       second.next = first;
+       return second;
+    }
+
+    /**
+     * 递推的写法
+     * @param head
+     */
+    public void swapPairs01(Node head) {
 
     }
+
+
+    /**
+     * 合并两个有序的链表，变成一个，有序的链表
+     * @return
+     */
     @Override
     public String toString() {
         StringBuffer sb = new StringBuffer();
