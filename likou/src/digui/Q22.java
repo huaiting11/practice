@@ -20,7 +20,6 @@ public class Q22 {
         return list;
     }
     public void help(int left,int right,String s,int max ,List<String> res){
-
         if(s.length() == max * 2){
             res.add(s);
             return;

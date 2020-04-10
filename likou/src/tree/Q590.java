@@ -19,7 +19,7 @@ public class Q590 {
             res.add(root.val);
         }
     }
-    //栈
+    //栈 迭代的写法
     public List<Integer> postorder01(Node root) {
         Stack<Node> stack = new Stack<Node>();
         List<Integer> res = new ArrayList<>();

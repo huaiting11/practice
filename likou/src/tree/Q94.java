@@ -12,7 +12,7 @@ public class Q94 {
         return res;
     }
     public void helper(TreeNode root,List<Integer> res)  {
-        if(root != null ){
+
             if(root.left != null){
                 helper(root.left,res);
             }
@@ -20,7 +20,7 @@ public class Q94 {
             if(root.right != null){
                 helper(root.right,res);
             }
-        }
+
 
     }
     public List<Integer> inorderTraversal01(TreeNode root) {

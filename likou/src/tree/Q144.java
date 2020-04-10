@@ -14,7 +14,7 @@ public class Q144 {
         return res;
     }
     void helpr(TreeNode root,List<Integer> res){
-        if(root != null){
+            if (root == null) return;
             res.add(root.val);
             if(root.left != null){
                 helpr(root.left,res);
@@ -22,7 +22,7 @@ public class Q144 {
             if(root.right != null){
                 helpr(root.right,res);
             }
-        }
+
     }
     //栈
     public List<Integer> preorderTraversal01(TreeNode root) {
