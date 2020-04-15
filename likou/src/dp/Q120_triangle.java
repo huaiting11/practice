@@ -44,8 +44,6 @@ public class Q120_triangle {
     public int minimumTotal01(List<List<Integer>> triangle){
         Integer[][] temp = new Integer[triangle.size()][triangle.get(triangle.size()-1).size()];
         return  help(triangle,0,0,temp);
-
-
     }
     public int help(List<List<Integer>> triangle,Integer m,Integer n,Integer[][] temp){
         if(m == triangle.size()-1){

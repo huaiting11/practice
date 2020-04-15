@@ -7,7 +7,9 @@ import java.util.Set;
 
 /**
  * 成语接龙
- *
+ * beginWord = "hit",
+ * endWord = "cog",
+ * wordList = ["hot","dot","dog","lot","log","cog"]
  */
 public class Q127 {
     public int ladderLength(String beginWord, String endWord, Set<String> wordList) {

@@ -14,10 +14,9 @@ public class Q53_maximum_subarray {
         int[] dp = nums;
         Integer max =Integer.MIN_VALUE;
         for (int i = 1; i < dp.length; i++) {
-            dp[i] = Math.max(dp[i-1],0)+nums[i];
-            max = Math.max(max,dp[i]);
+            dp[i] = Math.max(dp[i-1],0) + nums[i];
+            max = Math.max( max, dp[i]);
         }
-        System.out.println(dp.toString());
         return max;
     }
 

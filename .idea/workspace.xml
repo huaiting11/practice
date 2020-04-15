@@ -2,163 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed806865-9a36-4d57-872a-ff2fa4b3e56e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/likouP/likouP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likouP/src/array/Q11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likouP/src/array/Q15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likouP/src/array/Q189.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likouP/src/array/Q26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likouP/src/array/Q283.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likouP/src/linked/Linked.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likouP/src/queue/ArrayQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likouP/src/queue/IQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likouP/src/queue/LinkQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likouP/src/stack/ArrayStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/likouP/src/stack/DefineStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/behavioralPatterns/commandPattern/Broker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/behavioralPatterns/commandPattern/BuyStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/behavioralPatterns/commandPattern/CommandPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/behavioralPatterns/commandPattern/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/behavioralPatterns/commandPattern/SellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/behavioralPatterns/commandPattern/Stock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/creationalPatterns/abstractFactoryPattern/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/creationalPatterns/abstractFactoryPattern/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/creationalPatterns/abstractFactoryPattern/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sheji/src/com/test/creationalPatterns/abstractFactoryPattern/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likouP/src/dfsbfs/Q102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likouP/src/dfsbfs/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likouP/src/dp/Q120.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likouP/src/dp/Q62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likouP/src/dp/Q63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/likouP/src/dp/Q980.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/chapters02/not.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/src/chapters02/not.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/ABADemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/VolteDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/blockqueue/BlockingQueueDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/blockqueue/SynchronousQueueDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/blockqueue/demo/ProdConsumer_BlockQueueDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/blockqueue/demo/ProdConsumer_TraditionDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/blockqueue/demo/SyncAndReentrantLockDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/cas/CASDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/coutdowmlauch/CountryEnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/coutdowmlauch/CoutdownlauchDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/coutdowmlauch/CyclicBarrierDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/coutdowmlauch/SemphoreDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/jvm/JvmDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/jvm/PlanTomReferenceDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/jvm/ReferenceQueueDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/jvm/WaekHashMapDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/jvm/huishouqi/GCDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/jvm/oom/GCOverheadDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/jvm/oom/JavaHeapSpaceDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/jvm/oom/MetaspaceOOMTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/lock/FairLock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/lock/Lock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/dierji/lock/SpinLockDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jvm/src/jvm/HeapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/jvm/src/chapters01/HeapDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/likou/src/array/Q15.java" beforeDir="false" afterPath="$PROJECT_DIR$/likou/src/array/Q15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/likou/src/linklist/Q206.java" beforeDir="false" afterPath="$PROJECT_DIR$/likou/src/linklist/Q206.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/likou/array/Q15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likou/array/Q15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/likou/day1226/Q84.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/likou/dierji/ABADemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likou/dierji/ABADemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/likou/dierji/blockqueue/SynchronousQueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likou/dierji/blockqueue/SynchronousQueueDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/likou/dierji/coutdowmlauch/CountryEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likou/dierji/coutdowmlauch/CountryEnum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/likou/dierji/coutdowmlauch/CoutdownlauchDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likou/dierji/coutdowmlauch/CoutdownlauchDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/likou/dierji/coutdowmlauch/CyclicBarrierDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likou/dierji/coutdowmlauch/CyclicBarrierDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/likou/dierji/coutdowmlauch/SemphoreDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likou/dierji/coutdowmlauch/SemphoreDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/likou/dierji/lock/SpinLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likou/dierji/lock/SpinLockDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/likou/duoxiancheng/CondicationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likou/duoxiancheng/CondicationTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/likou/duoxiancheng/Lock8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likou/duoxiancheng/Lock8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/likou/duoxiancheng/MyCash.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likou/duoxiancheng/MyCash.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/likou/duoxiancheng/Pool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likou/duoxiancheng/Pool.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/likou/duoxiancheng/SemaphoreDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likou/duoxiancheng/SemaphoreDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/likou/duoxiancheng/SingleDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likou/duoxiancheng/SingleDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/likou/duoxiancheng/TestTicket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likou/duoxiancheng/TestTicket.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/likou/duoxiancheng/WaitAndNotify.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likou/duoxiancheng/WaitAndNotify.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/likou/jvm/HeapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likou/jvm/HeapDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/likou/linklist/Q206.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likou/linklist/Q206.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/likou/qifashisousuo/Q1091.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likou/qifashisousuo/Q1091.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/likou/stackqueue/MinStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likou/stackqueue/MinStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/likou/stackqueue/MinStack02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likou/stackqueue/MinStack02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/BehavioralPatterns/ChainResponsibilityPattern/AbstractLogger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/BehavioralPatterns/ChainResponsibilityPattern/ChainPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/BehavioralPatterns/ChainResponsibilityPattern/ConsoleLogger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/BehavioralPatterns/ChainResponsibilityPattern/ErrorLogger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/BehavioralPatterns/ChainResponsibilityPattern/FileLogger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/AbstractFactoryPattern/AbstractFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/AbstractFactoryPattern/AbstractFactoryPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/AbstractFactoryPattern/ColorFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/AbstractFactoryPattern/FactoryProducer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/AbstractFactoryPattern/ShapeFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/BuilderPattern/Bottle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/BuilderPattern/BuilderPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/BuilderPattern/Burger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/BuilderPattern/ChickenBurger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/BuilderPattern/Coke.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/BuilderPattern/ColdDrink.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/BuilderPattern/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/BuilderPattern/Meal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/BuilderPattern/MealBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/BuilderPattern/Packing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/BuilderPattern/Pepsi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/BuilderPattern/VegBurger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/BuilderPattern/Wrapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/FactoryPattern/FactoryPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/FactoryPattern/ShapeFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/PrototypePattern/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/PrototypePattern/PrototypePatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/PrototypePattern/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/PrototypePattern/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/PrototypePattern/ShapeCache.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/PrototypePattern/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/SingletonPattern/SingleObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/CreationalPatterns/SingletonPattern/SingletonPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/AdapterPattern/AdapterPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/AdapterPattern/AdvancedMediaPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/AdapterPattern/AudioPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/AdapterPattern/MediaAdapter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/AdapterPattern/MediaPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/AdapterPattern/Mp4Player.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/AdapterPattern/VlcPlayer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/Bridge/BridgePatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/Bridge/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/Bridge/DrawAPI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/Bridge/GreenCircle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/Bridge/RedCircle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/Bridge/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/CompositePattern/CompositePatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/CompositePattern/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/DecoratorPattern/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/DecoratorPattern/DecoratorPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/DecoratorPattern/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/DecoratorPattern/RedShapeDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/DecoratorPattern/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/DecoratorPattern/ShapeDecorator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/FacadePattern/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/FacadePattern/FacadePatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/FacadePattern/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/FacadePattern/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/FacadePattern/ShapeMaker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/FacadePattern/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/FilterPattern/AndCriteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/FilterPattern/Criteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/FilterPattern/CriteriaFemale.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/FilterPattern/CriteriaMale.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/FilterPattern/CriteriaPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/FilterPattern/CriteriaSingle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/FilterPattern/OrCriteria.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/FilterPattern/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/FlyweightPattern/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/FlyweightPattern/FlyweightPatternDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/FlyweightPattern/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/StructuralPatterns/FlyweightPattern/ShapeFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/proxy/dongtai/Client2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/proxy/dongtai/LogHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/proxy/jingtai/Client1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/proxy/jingtai/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/proxy/jingtai/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/sheji/com/test/proxy/jingtai/UserServiceProxy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sheji/src/com/test/Bean/Blue.java" beforeDir="false" afterPath="$PROJECT_DIR$/sheji/src/com/test/creationalPatterns/abstractFactoryPattern/Blue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sheji/src/com/test/Bean/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/sheji/src/com/test/creationalPatterns/abstractFactoryPattern/Color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sheji/src/com/test/Bean/Green.java" beforeDir="false" afterPath="$PROJECT_DIR$/sheji/src/com/test/creationalPatterns/abstractFactoryPattern/Green.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sheji/src/com/test/Bean/Red.java" beforeDir="false" afterPath="$PROJECT_DIR$/sheji/src/com/test/creationalPatterns/abstractFactoryPattern/Red.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sheji/src/com/test/creationalPatterns/abstractFactoryPattern/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/sheji/src/com/test/creationalPatterns/abstractFactoryPattern/AbstractFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sheji/src/com/test/creationalPatterns/abstractFactoryPattern/AbstractFactoryPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/sheji/src/com/test/creationalPatterns/abstractFactoryPattern/AbstractFactoryPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/likou/src/bfsordfs/Q127.java" beforeDir="false" afterPath="$PROJECT_DIR$/likou/src/bfsordfs/Q127.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/likou/src/dp/Q1143_longest.java" beforeDir="false" afterPath="$PROJECT_DIR$/likou/src/dp/Q1143_longest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/likou/src/dp/Q120_triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/likou/src/dp/Q120_triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/likou/src/dp/Q32_parentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/likou/src/dp/Q32_parentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/likou/src/dp/Q53_maximum_subarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/likou/src/dp/Q53_maximum_subarray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/likou/src/dp/Q91_decode_ways.java" beforeDir="false" afterPath="$PROJECT_DIR$/likou/src/dp/Q221_maximal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/likouP/linked/Linked.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likouP/linked/Linked.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/likouP/stack/ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/likouP/stack/ArrayStack.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,7 +74,7 @@
       <recent name="F:\practice\jvm\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayStack">
+  <component name="RunManager" selected="Application.Q62">
     <configuration name="ArrayStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stack.ArrayStack" />
       <module name="likouP" />
@@ -230,25 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChainPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.test.behavioralPatterns.chainResponsibilityPattern.ChainPatternDemo" />
-      <module name="sheji" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.test.behavioralPatterns.chainResponsibilityPattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Linked" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linked.Linked" />
+    <configuration name="Q17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fenzhihuisu.Q17" />
       <module name="likouP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linked.*" />
+          <option name="PATTERN" value="fenzhihuisu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.Q11" />
+    <configuration name="Q62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dp.Q62" />
       <module name="likouP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,12 +114,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q206" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linklist.Q206" />
-      <module name="likou" />
+    <configuration name="Q70" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="digui.Q70" />
+      <module name="likouP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linklist.*" />
+          <option name="PATTERN" value="digui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="digui.Q77" />
+      <module name="likouP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="digui.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q62" />
+        <item itemvalue="Application.Q17" />
+        <item itemvalue="Application.Q77" />
+        <item itemvalue="Application.Q70" />
         <item itemvalue="Application.ArrayStack" />
-        <item itemvalue="Application.Linked" />
-        <item itemvalue="Application.Q206" />
-        <item itemvalue="Application.Q11" />
-        <item itemvalue="Application.ChainPatternDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -335,7 +193,14 @@
       <workItem from="1585189392934" duration="1667000" />
       <workItem from="1585620036859" duration="5789000" />
       <workItem from="1585808549541" duration="2632000" />
-      <workItem from="1585875474495" duration="5334000" />
+      <workItem from="1585875474495" duration="19240000" />
+      <workItem from="1586224088680" duration="3150000" />
+      <workItem from="1586307305878" duration="4823000" />
+      <workItem from="1586394032653" duration="22153000" />
+      <workItem from="1586503235581" duration="5740000" />
+      <workItem from="1586766536663" duration="3577000" />
+      <workItem from="1586826050535" duration="7235000" />
+      <workItem from="1586912045639" duration="8855000" />
     </task>
     <servers />
   </component>
@@ -355,42 +220,46 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="644" y="449" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1583723183843" />
-    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1585875499478">
+    <state x="1345" y="356" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1586401619779">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1585875499478" />
-    <state width="1876" height="219" key="GridCell.Tab.0.bottom" timestamp="1585820646961">
+    <state x="1345" y="356" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586401619779" />
+    <state x="740" y="279" key="FileChooserDialogImpl" timestamp="1586912071365">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="219" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585820646961" />
-    <state width="1876" height="219" key="GridCell.Tab.0.center" timestamp="1585820646961">
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1586912071365" />
+    <state width="938" height="24" key="GridCell.Tab.0.bottom" timestamp="1586771518380">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="219" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585820646961" />
-    <state width="1876" height="219" key="GridCell.Tab.0.left" timestamp="1585820646961">
+    <state width="938" height="24" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586771518380" />
+    <state width="938" height="24" key="GridCell.Tab.0.center" timestamp="1586771518380">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="219" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585820646961" />
-    <state width="1876" height="219" key="GridCell.Tab.0.right" timestamp="1585820646961">
+    <state width="938" height="24" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586771518380" />
+    <state width="938" height="24" key="GridCell.Tab.0.left" timestamp="1586771518380">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="219" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585820646961" />
-    <state width="1876" height="219" key="GridCell.Tab.1.bottom" timestamp="1585820646961">
+    <state width="938" height="24" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586771518380" />
+    <state width="938" height="24" key="GridCell.Tab.0.right" timestamp="1586771518380">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="219" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1585820646961" />
-    <state width="1876" height="219" key="GridCell.Tab.1.center" timestamp="1585820646961">
+    <state width="938" height="24" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586771518380" />
+    <state width="938" height="24" key="GridCell.Tab.1.bottom" timestamp="1586771518380">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="219" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1585820646961" />
-    <state width="1876" height="219" key="GridCell.Tab.1.left" timestamp="1585820646961">
+    <state width="938" height="24" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586771518380" />
+    <state width="938" height="24" key="GridCell.Tab.1.center" timestamp="1586771518380">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="219" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1585820646961" />
-    <state width="1876" height="219" key="GridCell.Tab.1.right" timestamp="1585820646961">
+    <state width="938" height="24" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586771518380" />
+    <state width="938" height="24" key="GridCell.Tab.1.left" timestamp="1586771518380">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1876" height="219" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1585820646961" />
+    <state width="938" height="24" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586771518380" />
+    <state width="938" height="24" key="GridCell.Tab.1.right" timestamp="1586771518380">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="938" height="24" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586771518380" />
     <state x="331" y="134" key="new project wizard" timestamp="1583733971954">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -399,9 +268,25 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="616" y="237" key="run.anything.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1585881271709" />
-    <state x="1256" y="371" width="672" height="678" key="search.everywhere.popup" timestamp="1585624320944">
+    <state x="1256" y="371" width="672" height="678" key="search.everywhere.popup" timestamp="1586401166669">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="1256" y="371" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1585624320944" />
+    <state x="1256" y="371" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1586401166669" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/likouP/src/digui/Q77.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/likouP/src/fenzhihuisu/Q17.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,0 +1,220 @@
+﻿第一周实战题目/课后作业
+Array: 
+https://leetcode-cn.com/problems/container-with-most-water/  11 盛最多水的容器
+https://leetcode-cn.com/problems/move-zeroes/  283
+https://leetcode-cn.com/problems/two-sum/ 
+https://leetcode-cn.com/problems/3sum/  15
+https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/ 26
+https://leetcode-cn.com/problems/rotate-array/  189 未做；
+https://leetcode-cn.com/problems/merge-sorted-array/    合并两个有序的数组
+https://leetcode-cn.com/problems/plus-one/           
+
+Linked List:
+https://leetcode-cn.com/problems/reverse-linked-list/
+https://leetcode-cn.com/problems/swap-nodes-in-pairs  递推未做
+https://leetcode-cn.com/problems/linked-list-cycle       141
+https://leetcode-cn.com/problems/linked-list-cycle-ii   142
+https://leetcode-cn.com/problems/reverse-nodes-in-k-group/  25
+https://leetcode-cn.com/problems/merge-two-sorted-lists/   21  
+  
+Stack和Queue:
+https://leetcode-cn.com/problems/valid-parentheses/
+https://leetcode-cn.com/problems/min-stack/
+https://leetcode-cn.com/problems/largest-rectangle-in-histogram   柱状图中最大的矩形
+https://leetcode-cn.com/problems/trapping-rain-water/   接雨水
+https://leetcode-cn.com/problems/sliding-window-maximum  滑动窗口最大值
+https://leetcode-cn.com/problems/design-circular-deque
+
+
+第二周实战题目/课后作业
+Hash Table:
+https://leetcode-cn.com/problems/valid-anagram/description/
+https://leetcode-cn.com/problems/group-anagrams/
+
+Tree:
+https://leetcode-cn.com/problems/binary-tree-inorder-traversal/  二叉树的中序遍历
+https://leetcode-cn.com/problems/binary-tree-preorder-traversal/  二叉树的前序遍历
+https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/  N叉树的 后序遍历
+https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/   N叉树的 前序遍历
+https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/  N 叉树的 层级遍历
+
+递归：
+https://leetcode-cn.com/problems/climbing-stairs/ 爬楼梯
+https://leetcode-cn.com/problems/coin-change   /兑换硬币
+https://leetcode-cn.com/problems/generate-parentheses/  括号生成
+https://leetcode-cn.com/problems/invert-binary-tree/description    / 翻转二叉树
+https://leetcode-cn.com/problems/validate-binary-search-tree    验证二叉搜索树
+https://leetcode-cn.com/problems/maximum-depth-of-binary-tree     二叉树的最大深度
+https://leetcode-cn.com/problems/minimum-depth-of-binary-tree     二叉树的最小深度
+https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/       二叉树的最近公共祖先   体现分治 的思想，
+https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal    从前序与中序遍历构造二叉树  未做
+https://leetcode-cn.com/problems/combinations/  组合
+https://leetcode-cn.com/problems/permutations/  全排列
+https://leetcode-cn.com/problems/permutations-ii/  全排列2
+未做：
+https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/
+
+分治/回溯：
+https://leetcode-cn.com/problems/powx-n/    x 的 n 次幂函数。
+https://leetcode-cn.com/problems/subsets/
+https://leetcode-cn.com/problems/majority-element/(简单、但是高频) 众数
+https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/ 
+https://leetcode-cn.com/problems/n-queens/   回溯 n皇后
+
+
+第三周实战题目/课后作业
+深度优先搜索与广度优先搜索：
+https://leetcode-cn.com/problems/binary-tree-level-order-traversal/  二叉树 按层级遍历
+
+
+https://leetcode-cn.com/problems/minimum-genetic-mutation/  最小基因变化
+https://leetcode-cn.com/problems/word-ladder      单词接龙
+
+https://leetcode-cn.com/problems/generate-parentheses/  
+https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/
+https://leetcode-cn.com/problems/number-of-islands/
+
+bfs ：
+应用场景：
+求出到达指定目标的最小值
+树的层次遍历。
+
+
+未做：
+https://leetcode-cn.com/problems/word-ladder-ii/
+https://leetcode-cn.com/problems/minesweeper/
+
+贪心算法：
+https://leetcode-cn.com/problems/lemonade-change/
+https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/
+https://leetcode-cn.com/problems/assign-cookies/
+https://leetcode-cn.com/problems/jump-game/
+https://leetcode-cn.com/problems/jump-game-ii/
+未做：
+https://leetcode-cn.com/problems/walking-robot-simulation/
+
+二分查找：
+https://leetcode-cn.com/problems/sqrtx/
+https://leetcode-cn.com/problems/valid-perfect-square/
+https://leetcode-cn.com/problems/search-in-rotated-sorted-array/
+https://leetcode-cn.com/problems/search-a-2d-matrix/
+https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/
+
+第五周：
+动态规划：
+https://leetcode-cn.com/problems/unique-paths/  不同路径
+https://leetcode-cn.com/problems/unique-paths-ii/    有障碍物
+https://leetcode-cn.com/problems/unique-paths-iii/ --   往四个方向走
+https://leetcode-cn.com/problems/longest-common-subsequence/  最长公共子序列
+https://leetcode-cn.com/problems/triangle/   三角形最小路径和
+https://leetcode-cn.com/problems/maximum-subarray/   最大子序列和
+https://leetcode-cn.com/problems/maximum-product-subarray/   乘积最大子数组
+
+https://leetcode-cn.com/problems/coin-change/  硬币兑换
+https://leetcode-cn.com/problems/coin-change-2/ --  硬币兑换2
+
+https://leetcode-cn.com/problems/longest-valid-parentheses/ 最长有效括号 32
+https://leetcode-cn.com/problems/minimum-path-sum/  最小路径和
+https://leetcode-cn.com/problems/maximal-square/  最大正方形
+https://leetcode-cn.com/problems/frog-jump/  青蛙过河   403
+https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/  无重复字符的最长子串 
+
+
+-----------------------------------------------------------------------------------------
+https://leetcode-cn.com/problems/decode-ways  
+https://leetcode-cn.com/problems/house-robber/   打家劫舍
+https://leetcode-cn.com/problems/house-robber-ii/  打家劫舍2
+
+
+https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/  买卖股票
+https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/ 买卖股票2
+https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/  买卖股票3 
+https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/    买卖股票4
+https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
+
+
+----------------------------------------------------------------------------------
+
+
+https://leetcode-cn.com/problems/max-sum-of-rectangle-no-larger-than-k/
+https://leetcode-cn.com/problems/split-array-largest-sum
+https://leetcode-cn.com/problems/student-attendance-record-ii/
+https://leetcode-cn.com/problems/task-scheduler/
+https://leetcode-cn.com/problems/palindromic-substrings/
+https://leetcode-cn.com/problems/minimum-window-substring/
+https://leetcode-cn.com/problems/burst-balloons/
+
+------------------------------------------------------------------------------
+
+
+DP高级题目
+https://leetcode-cn.com/problems/jump-game/
+https://leetcode-cn.com/problems/jump-game-ii/
+https://leetcode-cn.com/problems/perfect-squares/
+https://leetcode-cn.com/problems/edit-distance/(重点)
+https://leetcode-cn.com/problems/longest-increasing-subsequence/
+https://leetcode-cn.com/problems/decode-ways/
+https://leetcode-cn.com/problems/maximal-rectangle/
+https://leetcode-cn.com/problems/distinct-subsequences/
+https://leetcode-cn.com/problems/race-car/
+
+第六周：
+字典树：
+https://leetcode-cn.com/problems/implement-trie-prefix-tree/
+https://leetcode-cn.com/problems/word-search-ii/
+并查集：
+https://leetcode-cn.com/problems/friend-circles
+https://leetcode-cn.com/problems/number-of-islands/
+https://leetcode-cn.com/problems/surrounded-regions/
+剪枝：
+https://leetcode-cn.com/problems/n-queens
+https://leetcode-cn.com/problems/valid-sudoku/
+https://leetcode-cn.com/problems/sudoku-solver/
+双向BFS：
+https://leetcode-cn.com/problems/word-ladder/
+https://leetcode-cn.com/problems/minimum-genetic-mutation/
+启发式搜索：
+https://leetcode-cn.com/problems/shortest-path-in-binary-matrix/
+https://leetcode-cn.com/problems/sliding-puzzle/
+https://leetcode-cn.com/problems/sudoku-solver/
+
+第七周：
+位运算：
+https://leetcode-cn.com/problems/number-of-1-bits/
+https://leetcode-cn.com/problems/power-of-two/
+https://leetcode-cn.com/problems/reverse-bits/
+https://leetcode-cn.com/problems/n-queens/
+https://leetcode-cn.com/problems/n-queens-ii/
+https://leetcode-cn.com/problems/counting-bits/
+布隆过滤器：
+LRU Cache:
+https://leetcode-cn.com/problems/lru-cache/
+排序：
+https://leetcode-cn.com/problems/relative-sort-array/
+https://leetcode-cn.com/problems/valid-anagram/
+https://leetcode-cn.com/problems/design-a-leaderboard/
+https://leetcode-cn.com/problems/merge-intervals/
+https://leetcode-cn.com/problems/reverse-pairs/
+
+第八周：
+字符串匹配：
+https://leetcode-cn.com/problems/to-lower-case/
+https://leetcode-cn.com/problems/length-of-last-word/
+https://leetcode-cn.com/problems/jewels-and-stones/
+https://leetcode-cn.com/problems/first-unique-character-in-a-string/
+https://leetcode-cn.com/problems/string-to-integer-atoi/
+https://leetcode-cn.com/problems/longest-common-prefix/description/
+https://leetcode-cn.com/problems/reverse-string
+https://leetcode-cn.com/problems/reverse-string-ii/
+https://leetcode-cn.com/problems/reverse-words-in-a-string/
+https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/
+https://leetcode-cn.com/problems/reverse-only-letters/
+https://leetcode-cn.com/problems/valid-anagram/
+https://leetcode-cn.com/problems/group-anagrams/
+https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/
+https://leetcode-cn.com/problems/valid-palindrome/
+https://leetcode-cn.com/problems/valid-palindrome-ii/
+https://leetcode-cn.com/problems/longest-palindromic-substring/
+https://leetcode-cn.com/problems/regular-expression-matching/
+https://leetcode-cn.com/problems/wildcard-matching/

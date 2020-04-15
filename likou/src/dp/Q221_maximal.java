@@ -11,7 +11,7 @@ package dp;
  *
  * 输出: 4
  */
-public class Q91_decode_ways {
+public class Q221_maximal {
     public int maximalSquare(char[][] matrix) {
         if (matrix == null || matrix.length < 1 || matrix[0].length < 1) return 0;
         int row = matrix.length,col = matrix[0].length;

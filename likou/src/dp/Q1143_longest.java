@@ -9,6 +9,7 @@ package dp;
  * 若这两个字符串没有公共子序列，则返回 0。
         */
 public class Q1143_longest {
+    // 递推，自底向上
     public int longestCommonSubsequence(String text1, String text2) {
         char[] s1 = text1.toCharArray();
         char[] s2 = text2.toCharArray();
@@ -24,16 +25,17 @@ public class Q1143_longest {
         }
         return dp[s1.length][s2.length];
     }
+    // 递归、 自顶向下。
     public int longestCommonSubsequence1(String text1, String text2) {
         char[] s1 = text1.toCharArray();
         char[] s2 = text2.toCharArray();
         return help(s1.length-1,s2.length-1,s1,s2);
-
     }
     public int help(int i,int j,char[]  s1,char[] s2){
         if(i == -1 || j == -1) return 0;
+
         if(s1[i] == s1[j]){
-            return help(i-1,j-1,s1,s2)+1;
+            return help(i-1,j-1,s1,s2) + 1;
         }else{
             int res;
             int temp = help(i-1,j,s1,s2);
