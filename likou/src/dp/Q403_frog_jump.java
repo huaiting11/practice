@@ -7,7 +7,7 @@ public class Q403_frog_jump {
     int[][] temp;
 
     /**
-     * 递归，从上而下 开始
+     * 记忆化搜索，通过，递归。
      * @param stones
      * @return
      */
@@ -16,7 +16,7 @@ public class Q403_frog_jump {
         for (int[] row : temp) {
             Arrays.fill(row, -1);
         }
-        return help(stones,0,0)==1;
+        return help(stones,0,0) == 1;
     }
 
     private int help(int[] stones, int start, int jumpSize) {
