@@ -1,5 +1,7 @@
 package sort;
 
+import java.awt.*;
+
 public class QuickSort {
     int [] a = {1,6,8,7,3,5,16,4,8,36,13,44};
     public static void quickSort(int[] arr) {
@@ -7,32 +9,24 @@ public class QuickSort {
     }
 
     private static void qsort(int[] arr, int low, int high) {
-        //System.out.println(String.format("qsort() -> low:%s, high:%s", low, high));
-        if (low < high) {
-            //将数组分为两部分
-            int pivot = partition(arr, low, high);
-            //递归排序左子数组
-            qsort(arr, low, pivot - 1);
-            //递归排序右子数组
-            qsort(arr, pivot + 1, high);
-        }
+        if(low > high ) return;
+        int part = partition(arr,low, high);
+        qsort(arr, low , part -1);
+        qsort(arr, part + 1, high);
     }
 
     private static int partition(int[] arr, int low, int high) {
-        //枢轴记录
-        int pivot = arr[low];
-        while (low < high) {
-            while (low < high && arr[high] >= pivot) --high;
-            //交换比枢轴小的记录到左端
-            arr[low] = arr[high];
-            while (low < high && arr[low] <= pivot) ++low;
-            //交换比枢轴小的记录到右端
-            arr[high] = arr[low];
+       int pov = high, count = low;
+        for (int i = low; i < high; i++) {
+            if(arr[i] < arr[pov]) {
+               int temp = arr[count];
+               arr[count ] = arr[i];
+               arr[i] = temp;
+               count++;
+            }
         }
-        //扫描完成，枢轴到位
-        arr[low] = pivot;
-        //返回的是枢轴的位置
-        return low;
+        int temp = arr[pov] ; arr[pov] = arr[count]; arr[count] = temp;
+        return count;
     }
 
     public static void main(String[] args) {
