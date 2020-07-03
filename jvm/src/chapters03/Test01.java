@@ -1,6 +1,5 @@
 package chapters03;
 
-import src.chapters03.Res;
 
 import java.util.concurrent.TimeUnit;
 

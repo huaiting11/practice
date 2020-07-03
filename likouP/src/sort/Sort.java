@@ -1,6 +1,9 @@
 package sort;
 
 public class Sort {
+    /**
+     * πÈ≤¢≈≈–Ú°£
+     */
     int [] a = {1,6,8,7,3,5,16,4,8,36,13,44};
     public static void sort(int[] data) {
         doSort(data, 0, data.length - 1);

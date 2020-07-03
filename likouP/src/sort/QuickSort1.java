@@ -1,6 +1,9 @@
 package sort;
 
 public class QuickSort1 {
+    /**
+     * øÏ≈≈°£
+     */
     int [] a = {1,6,8,7,3,5,16,4,8,36,13,44};
     public static  void sort(int[] array){
         quickSort(array, 0 ,array.length -1 );
